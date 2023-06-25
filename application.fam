@@ -1,6 +1,6 @@
 App(
-    appid="Barcode_App",
-    name="Barcode App",
+    appid="barcode_app",
+    name="Barcode Generator",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="barcode_main",
     requires=["gui", "storage"],
